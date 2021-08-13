@@ -1,0 +1,9 @@
+
+    [
+            { "id": 1, "name": "Curriculm" },
+            { "id": 2, "name": "Oficio" },
+            { "id": 3, "name": "Instrucciones por escrito" },
+            { "id": 4, "name": "Manual de procesos" },
+            { "id": 5, "name": "Manual de procedimiento" }
+    ]
+ 
